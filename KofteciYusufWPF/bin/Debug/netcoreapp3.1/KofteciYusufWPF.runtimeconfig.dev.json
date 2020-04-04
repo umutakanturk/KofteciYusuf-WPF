@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\umuta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\umuta\\.nuget\\packages"
+    ]
+  }
+}
